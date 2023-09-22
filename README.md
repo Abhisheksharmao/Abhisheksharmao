@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on amazon clone<br><br>🌱 I’m currently learning ReactJS<br><br>💬 Ask me about react , JS , JQuery<br><br>📫 How to reach me abhisheksh0012@gmail.com<br><br>⚡ Fun fact I never compare myself.
+ 🌱 I’m currently learning ReactJS<br><br>💬 Ask me about react , JS , JQuery<br><br>📫 How to reach me abhisheksh0012@gmail.com<br><br>⚡ Fun fact I never compare myself.
 
 
 ## 🌐 Socials:
